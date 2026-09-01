@@ -12,11 +12,12 @@ Instructions:
     2. Connect DAX Studio to the open Power BI model.
     3. Run ONE query at a time.
     4. Export each result as a separate CSV file.
-    5. Use the exported files as inputs to the Power BI Lineage Extractor.
+    5. Combine exported files and use as input to the Power BI Lineage Extractor.
 
 Recommended output files:
     - active_queries.csv
     - disabled_queries.csv
+Combine files
 
 Important:
     Do not run both SELECT statements together. DAX Studio DMV queries should
