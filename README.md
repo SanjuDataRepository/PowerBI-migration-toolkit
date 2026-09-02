@@ -880,7 +880,7 @@ Open the target Power BI project or TMDL View.
 
 Preview the generated changes before applying them.
 
-TMDL View supports scripting and applying semantic model changes while providing diagnostics for invalid edits. 【2-da450a】
+TMDL View supports scripting and applying semantic model changes while providing diagnostics for invalid edits.
 
 ## 27. Apply and Refresh
 
